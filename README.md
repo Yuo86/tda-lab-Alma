@@ -1,4 +1,4 @@
-# TDA Lab de [ESCRIBE AQUÍ TU NOMBRE]
+# TDA Lab de ALMA ESCOBAR
 
 **[TU CURSO] · Curso 2026-2027**
 
