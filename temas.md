@@ -9,9 +9,5 @@ Las propone el profesor a lo largo del curso. **La más reciente, arriba.** Diez
 
 ```
 ### Título del tema — fecha
-
-**De dónde sale:** el artículo, vídeo o noticia (pon el enlace).
-**La frase que me chocó:** cópiala tal cual, entre comillas.
-**Por qué me chocó a mí:** aquí es donde escribes tú.
-**Qué tiene que ver con clase:** con qué actividad o tema lo relacionas.
+Desde pequeña soy aficionada del baloncesto por mi padre. Mi pasión  aumento a los 9 años, cuando me  metió a un equipo infantil de baloncesto cerca de casa, jugué en un equipo por unos años, hasta los 14, donde una lesión hizo que abandonará el equipo, pero esa tragedia no hizo que mi pasion disminuyera,
 ```
