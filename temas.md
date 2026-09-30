@@ -18,3 +18,8 @@ Un giphun que habla del tema https://gist.github.com/naibu3/db7046145449860a6eb0
 ![balonn](capturas/balonn.jpg)
 
 ## 29/09 - Premios princesa 2026 - Studio Ghibli
+Studio ghibli es un estudio de animacion Japonesafue nominado y 
+premiado a los premios de la Fundación Princesa de Asturias. Fue premiado 
+por sus producciones que trascienden generaciones y fronteras, el amor 
+por la naturaleza, la tolerancia y el respeto por los seres humanos,
+
