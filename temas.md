@@ -13,6 +13,7 @@ Mi pasión  aumento a los 9 años, cuando me  metió a un equipo infantil
 de baloncesto cerca de casa, jugué en un equipo por unos años, hasta los 14,
 donde una lesión hizo que abandonará el equipo,
 pero esa tragedia no hizo que mi pasion disminuyera.
+
 ![balón](capturas/balón.jpg)
 
 ## 29/09 - Premios princesa 2026 - Studio Ghibli
