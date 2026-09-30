@@ -14,5 +14,5 @@ de baloncesto cerca de casa, jugué en un equipo por unos años, hasta los 14,
 donde una lesión hizo que abandonará el equipo,
 pero esa tragedia no hizo que mi pasion disminuyera.
 ![balonn](capturas/balonn.png)
-```
+
 ## 29/09 - Premios princesa 2026 - Studio Ghibli
