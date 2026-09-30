@@ -23,3 +23,4 @@ premiado a los premios de la Fundación Princesa de Asturias. Fue premiado
 por sus producciones que trascienden generaciones y fronteras, el amor 
 por la naturaleza, la tolerancia y el respeto por los seres humanos,
 
+![ghibli](capturas/ghibli.wep)
