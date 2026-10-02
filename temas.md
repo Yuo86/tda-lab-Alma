@@ -13,14 +13,16 @@ Mi pasión  aumento a los 9 años, cuando me  metió a un equipo infantil
 de baloncesto cerca de casa, jugué en un equipo por unos años, hasta los 14,
 donde una lesión hizo que abandonará el equipo,
 pero esa tragedia no hizo que mi pasion disminuyera.
-Un giphun que habla del tema https://gist.github.com/naibu3/db7046145449860a6eb09170b53f1c68
+Un giphun que habla del tema ![enlace]https://gist.github.com/naibu3/db7046145449860a6eb09170b53f1c68
 
 ![balonn](capturas/balonn.jpg)
 
 ## 29/09 - Premios princesa 2026 - Studio Ghibli
-Studio ghibli es un estudio de animacion Japonesafue nominado y 
+Studio Ghibli es un estudio de animación Japonesa fue nominado y 
 premiado a los premios de la Fundación Princesa de Asturias. Fue premiado 
 por sus producciones que trascienden generaciones y fronteras, el amor 
-por la naturaleza, la tolerancia y el respeto por los seres humanos,
+por la naturaleza, la tolerancia y el respeto por los seres humanos.
+Elegí a este premiado porque soy gran admiradora de este estudio y de sus producciones
 
 ![ghibli](capturas/ghibli.jpg)
+![enlace]https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-studio-ghibli/
