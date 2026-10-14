@@ -7,7 +7,7 @@ algo que ha salido y tiene que ver con lo que estamos dando.
 
 Las propone el profesor a lo largo del curso.
 
-## Mis aficiones - 28/09
+## 28/09 - Mis aficiones 
 Desde pequeña soy aficionada del baloncesto por mi padre.
 Mi pasión  aumento a los 9 años, cuando me  metió a un equipo infantil
 de baloncesto cerca de casa, jugué en un equipo por unos años, hasta los 14,
@@ -29,3 +29,8 @@ y por la alegria de que sean reconocidos internacionalmente.
 
 
 [su página en la Fundación](https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-studio-ghibli/)
+
+
+## 14/10 - Ada Lovelace
+Ada Lovelace, [única hija legítima del poeta Lord Byron](https://es.wikipedia.org/wiki/Ada_Lovelace). Fue una matemática y escritora británica, anterior mente conocida principalmente por su apodo como
+ "la primera programadora de computadoras" [hecho que fue desmentido a finales de 1970](https://www.prospectmagazine.co.uk/ideas/technology/38160/debugging-the-mythology-was-ada-lovelace-really-the-first-computer-programmer).este día internacional rinde homenaje a los logros alcanzados por aquellas mujeres que incursionan en el campo de la ciencia, la tecnología y las matemáticas.
