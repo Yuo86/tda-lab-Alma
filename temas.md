@@ -32,5 +32,6 @@ y por la alegria de que sean reconocidos internacionalmente.
 
 
 ## 14/10 - Ada Lovelace
-Ada Lovelace, [única hija legítima del poeta Lord Byron](https://es.wikipedia.org/wiki/Ada_Lovelace). Fue una matemática y escritora británica, anterior mente conocida principalmente por su apodo como
- "la primera programadora de computadoras" [hecho que fue desmentido a finales de 1970](https://www.prospectmagazine.co.uk/ideas/technology/38160/debugging-the-mythology-was-ada-lovelace-really-the-first-computer-programmer).este día internacional rinde homenaje a los logros alcanzados por aquellas mujeres que incursionan en el campo de la ciencia, la tecnología y las matemáticas.
+[Ada Lovelace, única hija legítima del poeta Lord Byron](https://es.wikipedia.org/wiki/Ada_Lovelace), fue una matemática y escritora británica. Es conocida principalmente por ser considerada "la primera programadora de computadoras", un hito cuyo alcance exacto ha sido objeto de [debate historiográfico desde finales de la década de 1970](https://cacm.acm.org/blogcacm/was-ada-lovelace-actually-the-first-programmer/). Cada año, desde 2009, el segundo martes de octubre se celebra  en su honor rinde homenaje a los logros alcanzados por aquellas mujeres que incursionan en los campos de la ciencia, la tecnología, la ingeniería y las matemáticas.
+{: width="150"}![ada](capturas/ada.jpg)
+
